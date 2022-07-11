@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambasscope
-- 👀 I’m interested in machine learning, data science, and latex template design.
+- 👀 I’m interested in machine learning, and data science.
 - 🌱 I’m currently learning python and latex
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
